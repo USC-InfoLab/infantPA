@@ -1,0 +1,9 @@
+{
+  "task" : "ARgood vs ARpoor",
+  "n_motifs" : 2,
+  "motif_len" : 51,
+  "age_group": ["0_4/", "12_18/", "4_6/", "6_9/", "9_12/"],
+  "subtask" : "visit_group",
+  "storage_dir": "/storage/datasets_public/InfantPA",
+  "motifs_dir": "/results/motifs/groups/"
+}
