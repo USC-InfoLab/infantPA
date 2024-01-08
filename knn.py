@@ -1,13 +1,5 @@
-import pandas as pd
-import copy
-import numpy as np
-import matplotlib.pyplot as plt
-import numpy as np
-import os
-import pickle
 from itertools import chain
 from pyts.classification import KNeighborsClassifier
-from collections import Counter
 
 def train_test_split(motifs, labels):
   X_train = []
